@@ -53,6 +53,6 @@ The app containerized image of the app is availble on DockerHub, to run the app 
 ![Capture](https://user-images.githubusercontent.com/57603284/118839644-55134780-b8cf-11eb-9f13-481fa2aa2dde.PNG)
  
  ### Remarks
- It has been an amazing strugglr for me to try and fit the given tech stack into this application.  Althought the final product doesnt contain Mockito test cases and Couchbase databse,
+ It has been an amazing challenge and  struggles for me to try and fit the given tech stack into this application.  Althought the final product doesnt contain Mockito test cases and Couchbase databse,
  during the course of the task I tried them plenty, even if at the end I couldnt get them to function as I want in the project. I also used Spring Data JPA but because of time I dropped it as it was giving me nested exception errors towards the end.  
  I have have built a frontend React todo list previously ***https://r3act-t4sk-li5t.netlify.app*** and therefore for this task I put a lot of effort into trying out other stuff that I dont know, I even used Docker for the first time on this task.😀 
