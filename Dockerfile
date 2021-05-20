@@ -1,4 +1,5 @@
-FROM java:8
+#FROM java:8
+FROM adoptopenjdk/openjdk11:alpine-jre
 
 EXPOSE 8080
 
